@@ -17,7 +17,12 @@ padding: 0;}
 }
 </style>
 
-<h2><font color="white">Our delivery and return policy</font>
+
+
+<br><br><br>
+<center class="div">
+  
+  <h2><font color="white">Our delivery and return policy</font>
 </h2>
 <br>
 
@@ -189,9 +194,10 @@ Data and statements concerning dietary supplements haven’t been evaluated by t
   </font>
 
 
-
-<br><br><br>
-<center class="div"><br><b><font color="white" style="margin-bottom: -50px;  "><center>DEEP Fitness is an fitness freak guy who is inspiring the youth by his information and knowledge about fitness<br>
+  
+  
+  
+  <br><b><font color="white" style="margin-bottom: -50px;  "><center>DEEP Fitness is an fitness freak guy who is inspiring the youth by his information and knowledge about fitness<br>
 Contact Us @ 9557920831<br>DEEP FITNESS (2018-2019)</center>
 </font></b>
 
